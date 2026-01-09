@@ -1,6 +1,6 @@
 # Grouser-Generation
 
-This program was originally designed to automate the design of lunar rover wheel treads within FreeCAD
+This program was originally designed to automate the design of lunar rover wheel treads within FreeCAD.
 
 ## Technicals
 * Uses Python and the Part module to build the wheel and grousers independently, then combine in a single Object
